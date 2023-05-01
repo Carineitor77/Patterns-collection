@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code-design-level-patterns", "Code-design-level-patterns", "{110220CE-5B6E-4528-ACFF-29BF6F6C6DFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP-techniques", "OOP-techniques", "{4DBB94F9-9CA7-4131-9CC8-4A39C68461F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class-design-principles", "Class-design-principles", "{8B47C437-DD32-4965-96FD-B2E553740FC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Code-design-level-patterns\OOP-techniques\Class-design-principles\Abstraction\Abstraction.csproj", "{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4DBB94F9-9CA7-4131-9CC8-4A39C68461F2} = {110220CE-5B6E-4528-ACFF-29BF6F6C6DFE}
+		{8B47C437-DD32-4965-96FD-B2E553740FC3} = {4DBB94F9-9CA7-4131-9CC8-4A39C68461F2}
+		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E} = {8B47C437-DD32-4965-96FD-B2E553740FC3}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
