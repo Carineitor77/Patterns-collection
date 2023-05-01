@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Code-design-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Code-design-level-patterns\OOP-techniques\Class-design-principles\Encapsulation\Encapsulation.csproj", "{9573FD65-869B-4398-9689-7AA06420A7D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hiding", "Code-design-level-patterns\OOP-techniques\Class-design-principles\Hiding\Hiding.csproj", "{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,7 @@ Global
 		{817D5984-51FA-4329-B65D-B123D1E0DEA6} = {8B47C437-DD32-4965-96FD-B2E553740FC3}
 		{E8710676-6C9D-4925-A412-55C649935F40} = {8B47C437-DD32-4965-96FD-B2E553740FC3}
 		{9573FD65-869B-4398-9689-7AA06420A7D0} = {8B47C437-DD32-4965-96FD-B2E553740FC3}
+		{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD} = {8B47C437-DD32-4965-96FD-B2E553740FC3}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{92AAA2F0-E9AB-4267-B61D-44F769CC3A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -50,5 +53,9 @@ Global
 		{9573FD65-869B-4398-9689-7AA06420A7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9573FD65-869B-4398-9689-7AA06420A7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9573FD65-869B-4398-9689-7AA06420A7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0853CDA2-A87E-457C-B221-2F7CB2AF2BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
